@@ -1,0 +1,6 @@
+ROOKQCACHE
+ Q
+ ;
+CACHEGET(EGG,EMBRYO)
+ Q
+ ;
